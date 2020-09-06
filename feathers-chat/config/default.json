@@ -20,7 +20,8 @@
       "github": {
         "key": "65f78c6c8b7afb077281",
         "secret": "52666e26dea47fe0fb82bf05cf7cdb7e5f4749ea"
-      },    
+      }
+    },    
     "jwtOptions": {
       "header": {
         "typ": "access"
