@@ -30,4 +30,4 @@ export default () : Hook => {
     // Best practice: hooks should always return the context
     return context;
   };
-}
+};
